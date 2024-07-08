@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "title": "First Blog Post : Fashion",
+      "content": "Fashion is an everchanging subject that can give rise to new trends overnight, so fashion aficionados will be looking for blogs with daily updates of expert insights, creative guides, and general news regarding what is currently stylish. Having an informative fashion blog on your website is important in not only bringing in new customers to your site but also in giving your readers the confidence that your business is genuinely interested in fashion trends.",
+      "image": "11.jpg"    
+    },
+    {
+      "id": 2,
+      "title": "Second Blog Post: Beauty",
+      "content": " Everyone tends to pack way too many beauty products when going on a trip. In this blog post, you can talk about the beauty essentials your readers will actually use while on vacation.People often look to online sources when it comes to determining their skin type. Help your readers discover whether they have oily, dry, or combination skin and which products work for their skin type.",
+       "image": "22.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Third Blog Post: Information Technology",
+      "content": "The internet is one of the first places people go when a new piece of technology is released. By writing detailed posts about these, you can easily drive new members to your site. This also lets your current audience know that you are up to date with the latest tech releases.It is easy for things to go out of fashion in tech. Dive into the current tech news and write about the things that you believe are beginning to catch on.",
+      "image": "33.png"
+    },
+    {
+        "id": 4,
+        "title": "Fourth Blog Post: Web Design",
+        "content":"A lot of customers will have no idea how to communicate their needs and wants to potential designers. This sort of blog post will let you outline everything you need to know when a customer contacts you, which can help weed out the time-wasters.People who are looking to hire a web designer may not know what to look out for. This will give you a chance to prove your trustworthiness by providing potential customers with advice and will let you sell your services by highlighting their best qualities.",
+        "image": "44.png"
+      }
+  ]
+  
